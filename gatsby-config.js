@@ -12,11 +12,11 @@ module.exports = {
     homepageAbout: "Tyra is a modern, sleek and feminine Gatsby.js theme. Easily create a beautiful and fast blog and draw attention to your stellar content.",
     mailChimpUrl: "https://mailchimp.com",
     mailChimpToken: "MAILCHIMP TOKEN HERE",
-    youtube: "", // YOUR YOUTUBE PROFILE HERE
-    github: "", // YOUR GITHUB PROFILE HERE 
-    pinterest: "", // YOUR PINTEREST PROFILE HERE
-    facebook: "", // YOUR FACEBOOK PROFILE HERE
-    twitter: "", // YOUR TWITTER PROFILE HERE
+    youtube: "https://youtube.com/", // YOUR YOUTUBE PROFILE HERE
+    github: "https://github.com/", // YOUR GITHUB PROFILE HERE 
+    pinterest: "https://pinterest.com/", // YOUR PINTEREST PROFILE HERE
+    facebook: "https://facebook.com/", // YOUR FACEBOOK PROFILE HERE
+    twitter: "https://twitter.com/", // YOUR TWITTER PROFILE HERE
   },
   plugins: [
     'gatsby-plugin-sitemap',
